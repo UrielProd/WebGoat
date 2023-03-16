@@ -31,8 +31,5 @@
     },
      "enableRenovate": true,
      "dependencyDashboard": true
-  },
-   "leastVulnerablePackageSettings": {  
-  "enabled": "true" 
   }
 }
