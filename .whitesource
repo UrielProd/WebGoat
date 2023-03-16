@@ -28,7 +28,9 @@
   "remediateSettings": {
     "workflowRules": {
       "enabled": true
-    }
+    },
+     "enableRenovate": true,
+     "dependencyDashboard": true
   },
    "leastVulnerablePackageSettings": {  
   "enabled": "true" 
